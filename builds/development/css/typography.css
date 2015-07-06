@@ -1,0 +1,290 @@
+@font-face {
+  font-family: 'q_black';
+  src: url('../fonts/Quadon Black.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_blackitalic';
+  src: url('../fonts/Quadon Blackitalic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_bold';
+  src: url('../fonts/Quadon Bold.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_bolditalic';
+  src: url('../fonts/Quadon Bolditalic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_extrabold';
+  src: url('../fonts/Quadon Extrabold.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_extrabolditalic';
+  src: url('../fonts/Quadon Extrabolditalic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_heavy';
+  src: url('../fonts/Quadon Heavy.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_heavyitalic';
+  src: url('../fonts/Quadon Heavyitalic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_light';
+  src: url('../fonts/Quadon Light.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_lightitalic';
+  src: url('../fonts/Quadon Lightitalic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_medium';
+  src: url('../fonts/Quadon Medium.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_mediumitalic';
+  src: url('../fonts/Quadon Mediumitalic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_regularitalic';
+  src: url('../fonts/Quadon Regularitalic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_thin';
+  src: url('../fonts/Quadon Thin.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_thinitalic';
+  src: url('../fonts/Quadon Thinitalic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_ultrabold';
+  src: url('../fonts/Quadon Ultrabold.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'q_ultrabolditalic';
+  src: url('../fonts/Quadon Ultrabolditalic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'quadon';
+  src: url('../fonts/Quadon.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*gentona*/
+
+@font-face {
+  font-family: 'g_bold_italic';
+  src: url('../fonts/Gentona Bold Italic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_bold';
+  src: url('../fonts/Gentona Bold.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_book_italic';
+  src: url('../fonts/Gentona Book Italic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_book';
+  src: url('../fonts/Gentona Book.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_extra_bold_italic';
+  src: url('../fonts/Gentona ExtraBold Italic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_extra_bold';
+  src: url('../fonts/Gentona ExtraBold.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_extra_light_italic';
+  src: url('../fonts/Gentona ExtraLight Italic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_extra_light';
+  src: url('../fonts/Gentona ExtraLight.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_heavy_italic';
+  src: url('../fonts/Gentona Heavy Italic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_heavy';
+  src: url('../fonts/Gentona Heavy.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_light_italic';
+  src: url('../fonts/Gentona Light Italic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_light';
+  src: url('../fonts/Gentona Light.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_medium_italic';
+  src: url('../fonts/Gentona Medium Italic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_medium';
+  src: url('../fonts/Gentona Medium.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_semi_bold_italic';
+  src: url('../fonts/Gentona SemiBold Italic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_semi_bold';
+  src: url('../fonts/Gentona SemiBold.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_thin_italic';
+  src: url('../fonts/Gentona Thin Italic.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'g_thin';
+  src: url('../fonts/Gentona Thin.otf');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
