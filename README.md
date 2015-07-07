@@ -12,3 +12,5 @@ src: url('../fonts/source-file');
 
 Re-build a site is not a one-day-project, and I am busy of looking for full-time jobs, I really want to spend a whole bunch of time to finish this for once, but...
 Any way, tomorrow for day12 would be the "Page components re-design".
+
+[And this is the link to that test page on line](http://angularfox.com/hongbotest/index.html)
